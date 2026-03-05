@@ -10,6 +10,6 @@ This repository is a professional log of my journey into **C#** and **Enterprise
 
 ### Learning Roadmap
 - [x] Repository Setup & Environment
-- [x] Module 1: Data Types, Memory & Variables (Current)
-- [ ] Module 2: Control Flow & Logic
+- [x] Module 1: Data Types, Memory & Variables
+- [ ] Module 2: Control Flow & Logic (Current)
 - [ ] Module 3: Object-Oriented Programming (OOP)
