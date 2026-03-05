@@ -9,7 +9,18 @@ This repository is a professional log of my journey into **C#** and **Enterprise
 - **Efficiency:** Analyzing data types and memory usage for optimized performance.
 
 ### Learning Roadmap
-- [x] Repository Setup & Environment
-- [x] Module 1: Data Types, Memory & Variables
-- [ ] Module 2: Control Flow & Logic (Current)
-- [ ] Module 3: Object-Oriented Programming (OOP)
+- [x] **Repository Setup & Environment**
+- [x] **Module 1: Data Types, Memory & Variables**
+  - *Key Takeaway:* Explored memory footprints using `sizeof()` and identified value boundaries with `MinValue`/`MaxValue`.
+- [ ] **Module 2: Control Flow & Logic (Current)**
+  - *Goal:* Implementing decision-making matrices for logistics scenarios.
+- [ ] **Module 3: Object-Oriented Programming (OOP)**
+
+## 🛠️ Technical Insights
+
+### Module 01: Memory & Data Types
+During this module, I deconstructed how C# manages primitive types in memory:
+* **Integer (`int`)**: 4 bytes, range from -2.1B to 2.1B. Ideal for standard counts.
+* **Long (`long`)**: 8 bytes. Essential for massive datasets and enterprise-scale IDs.
+* **Double (`double`)**: 8 bytes. Used for high-precision logistics calculations (weights, coordinates).
+* **Boolean (`bool`)**: 1 byte. The foundation of logical branching.
